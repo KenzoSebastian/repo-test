@@ -1,4 +1,5 @@
 ini adalahg dari local
+iniadalah dari local ke 2
 
 
 ini dari cloud
